@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Farid Iqbal Shakil</h1>
+<h1 align="center">Hi, I'm Md. Farid Iqbal Shakil</h1>
 <h3 align="center">Web Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farid-256&label=Profile%20views&color=0e75b6&style=flat" alt="farid-256" /> </p>
