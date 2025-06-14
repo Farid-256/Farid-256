@@ -1,4 +1,4 @@
-<img src="https://github.com/account">
+<img src="https://avatars.githubusercontent.com/u/216281543?v=4">
 
 
 <h1 align="center">Hi, I'm Md. Farid Iqbal Shakil</h1>
