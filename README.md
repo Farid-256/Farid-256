@@ -1,8 +1,8 @@
 <img src="https://instagram.fdac138-2.fna.fbcdn.net/v/t51.2885-19/490257177_600636566351728_2359286175234299209_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fdac138-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEVSaYPPIYP9Kr6mWKHoqJNg-IxDbkFHoYc5uthbAlfi45lxWqnqJZhoFH_NMcDKps&_nc_ohc=MCrgrLuTackQ7kNvwErK3v2&_nc_gid=bJYboALoB_QX2LzxhfuwYg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfNmnQBl1UyehdNRK1CKnX8x9fAny1gVKpLeeXnf151oEA&oe=68532EE3&_nc_sid=7a9f4b">
-<h1 align="center">Hi, I'm Md. Farid Iqbal Shakil</h1>
-<h3 align="center">Web Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farid-256&label=Profile%20views&color=0e75b6&style=flat" alt="farid-256" /> </p>
+
+<h1 align="center">Hi 👋, I'm Md. Farid Iqbal Shakil</h1>
+<h3 align="center">Web Developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farid-256" alt="farid-256" /></a> </p>
 
@@ -23,7 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farid-256&show_icons=true&locale=en&layout=compact" alt="farid-256" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farid-256&show_icons=true&locale=en" alt="farid-256" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farid-256&" alt="farid-256" /></p>
 
 
