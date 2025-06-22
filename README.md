@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **faridiqubal34fx@gmail.com**
+- 📫 How to reach me **faridiqubal334@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
