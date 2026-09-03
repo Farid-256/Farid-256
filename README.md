@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Md. Farid Iqbal Shakil</h1>
-<h3 align="center">Web Developer from Bangladesh</h3>
+<h1 align="center">Hello, nice to see you here!</h1>
+<h3 align="center">I'm Farid iqubal shakil, MERN stack developer from Dhaka, Bangladesh. I build full-stack web applications using Next.js, Typescript, Tailwind, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farid-256" alt="farid-256" /></a> </p>
 
