@@ -9,6 +9,10 @@
   <a href="https://instagram.com/shakil.2562" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakil.2562" height="30" width="40" />
   </a>
+
+   <a href="https://www.facebook.com/md.farid.iqubal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
