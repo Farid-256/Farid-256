@@ -24,9 +24,9 @@
 ## Screenshots
 
 ### Homepage
-![Homepage](./Screenshot2026-09-03095943.png)
+[Homepage](./Screenshot2026-09-03095943.png)
 
 ### All Tickets
-![All Tickets](./Screenshot2026-09-03100054.png)
+[All Tickets](./Screenshot2026-09-03100054.png)
 
 
