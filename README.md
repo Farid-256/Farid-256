@@ -1,17 +1,11 @@
 <h1 align="left">Hello, nice to see you here!</h1>
 <h3 align="left">I'm Farid iqubal shakil, MERN stack developer from Dhaka, Bangladesh. I build full-stack web applications using Next.js, Typescript, Tailwind, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farid-256" alt="farid-256" /></a> </p>
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **faridiqubal334@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shakil.2562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakil.2562" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/mdfaridiqubal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakil.2562" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
