@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/mdfaridiqubal" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdfaridiqubal" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/তোমার_ইউজারনাম" target="blank">
+  <a href="https://www.facebook.com/md.farid.iqubal" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
 </div>
