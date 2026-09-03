@@ -21,4 +21,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&height=70&lines=DO+SOMETHING+GREAT" alt="DO SOMETHING GREAT" />
 </p>
 
+## Screenshots
+
+### Homepage
+![Homepage](./Screenshot2026-09-03095943.png)
+
+### All Tickets
+![All Tickets](./Screenshot2026-09-03100054.png)
+
 
